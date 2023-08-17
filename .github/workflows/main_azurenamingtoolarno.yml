@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'AzureNamingToolArno'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4330D6D9841441CDA2DE5FCBBF9109AE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CB3DF729DE454396B579D7047C958C78 }}
           package: .
